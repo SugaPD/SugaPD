@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi there! I'm Daniel  
+### QA Manual & Automation Trainee | Passionate about improving software quality
 
-<!--
-**SugaPD/SugaPD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm currently training in **Quality Assurance (QA)** with a focus on functional, mobile, and API testing. I enjoy learning new tools and methodologies to help deliver more stable, efficient, and user-centered software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Technologies and tools I've worked with:
+- **Manual testing** (web and mobile)
+- **Jira** for bug tracking and test case management
+- **Android Emulator** for mobile app testing
+- Functional testing across browsers (Chrome, Firefox)
+- Test documentation and result tracking (PASS / FAIL)
+
+---
+
+### 🚀 Highlighted personal projects:
+- **Food delivery app testing (Urban.Lunch)**  
+  Functional and mobile testing on Android Emulator; analyzed order and delivery flows.
+
+- **Car rental app testing (Car Sharing App)**  
+  Designed test cases, tested on various screen resolutions, tracked bugs using Jira.
+
+> You can find more details in the public repositories 📁 on this profile.
+
+---
+
+### 📚 Currently learning:
+- Fundamentals of **test automation**
+- Best practices in agile testing environments
+
+---
+
+### 🤝 Want to connect?
+I'm open to collaborating on QA projects or learning alongside other developers.
+
+📬 Reach out on LinkedIn https://www.linkedin.com/in/idsuga/
+🔎 Portfolio: *(under construction, coming soon!)*
