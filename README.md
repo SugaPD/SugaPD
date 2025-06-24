@@ -21,8 +21,6 @@
 - **Car rental app testing (Car Sharing App)**  
   Designed test cases, tested on various screen resolutions, tracked bugs using Jira.
 
-> You can find more details in the public repositories 📁 on this profile.
-
 ---
 
 ### 📚 Currently learning:
@@ -32,7 +30,6 @@
 ---
 
 ### 🤝 Want to connect?
-I'm open to collaborating on QA projects or learning alongside other developers.
 
 📬 Reach out on LinkedIn https://www.linkedin.com/in/idsuga/
 🔎 Portfolio: *(under construction, coming soon!)*
